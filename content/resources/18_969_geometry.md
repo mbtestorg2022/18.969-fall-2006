@@ -8,6 +8,7 @@ description: 'This resource contains the complete set of lecture notes for the c
   as introduced by Hitchin.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/84ec6aea9629b385337e398d35974294_18_969_geometry.pdf
 file_type: application/pdf
+parent_uid: 7985c9dc-f35f-be0e-12ee-a216973eddd5
 resourcetype: Document
 title: 18_969_geometry.pdf
 uid: 84ec6aea-9629-b385-337e-398d35974294

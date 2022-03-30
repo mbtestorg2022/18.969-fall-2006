@@ -5,6 +5,7 @@ description: This file is a resource which contains problems on topics like epim
   and Buscher rules.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/f58237c904b6915de9fca0b59309fbb3_problems6.pdf
 file_type: application/pdf
+parent_uid: 649abb54-2cd6-87ca-b507-1d1930f52014
 resourcetype: Document
 title: problems6.pdf
 uid: f58237c9-04b6-915d-e9fc-a0b59309fbb3

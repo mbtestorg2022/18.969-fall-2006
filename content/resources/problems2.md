@@ -5,6 +5,7 @@ description: This file is a resource which contains problems related to topics l
   pairing, and Courant algebroid.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/97cab07e3807c55cf05696bc5111c1e9_problems2.pdf
 file_type: application/pdf
+parent_uid: 649abb54-2cd6-87ca-b507-1d1930f52014
 resourcetype: Document
 title: problems2.pdf
 uid: 97cab07e-3807-c55c-f056-96bc5111c1e9
